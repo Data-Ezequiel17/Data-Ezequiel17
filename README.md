@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**Data-Ezequiel17/Data-Ezequiel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ezequiel(Zeek), a Data Engineer based in Florida.
 
-Here are some ideas to get you started:
+I design and build anything Big Data related. Mostly data pipelines. Currently focosing on real-time data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack: Python, SQl, Spark, Airflow, Docker, AWS, Snowflake, Kafka.
+
+This is my new github, lost my old one. 
+
+FUN FACTS:
+- Building one of the most high tech schoolies out there
+- National park enthusiast
+- Health/fitness 
