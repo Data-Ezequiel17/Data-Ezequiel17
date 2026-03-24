@@ -2,9 +2,9 @@
 
 I'm Ezequiel(Zeek), a Data Engineer based in Florida.
 
-I design and build anything Big Data related. Mostly data pipelines. Currently focosing on real-time data, but love batch as well.
+I design and build anything Big Data related. Mostly data pipelines. Currently focusing on real-time data, but love batch as well.
 
-My main tech stack: Python, SQl, Spark, Airflow, Docker, AWS, Snowflake, Kafka.
+My main tech stack: Python, SQl, Spark(pyspark), Airflow, Docker, AWS, Snowflake, Kafka.
 
 This is my new github, lost my old one. 
 
