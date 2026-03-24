@@ -5,8 +5,6 @@ A Data Engineer based in Florida. :palm_tree:
 
 I design and build anything Big Data related. Mostly data pipelines. Currently focusing on real-time data, but love batch as well.
 
-My main tech stack: Python, SQl, Spark(pyspark), Airflow, Docker, AWS, Snowflake, Kafka.
-
 This is my new github, lost my old one. 
 
 \
