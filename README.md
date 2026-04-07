@@ -3,7 +3,7 @@
 
 Data Engineer based in Florida. :palm_tree:
 
-I design and build anything Big Data related. Mostly data pipelines. Currently focusing on real-time data, but love batch as well.
+I design and build anything Big Data related. Mostly data pipelines. Currently focusing on real-time data, but love working with batch as well.
 
 This is my new github, lost my old one. 
 
